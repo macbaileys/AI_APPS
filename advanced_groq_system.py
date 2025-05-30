@@ -28,7 +28,11 @@ class AdvancedGroqRAG(AppenzellHikingRAG):
 
         # Groq Client optional initialisieren
         self.groq_client = None
-        api_key = groq_api_key or os.getenv("GROQ_API_KEY")
+        api_key = (
+            groq_api_key
+            or os.getenv("GROQ_API_KEY")
+            or "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"
+        )
 
         if api_key:
             try:
@@ -421,13 +425,8 @@ def demo_advanced_groq():
     print("🚀 Advanced Groq RAG System Demo")
     print("=" * 50)
 
-    if not os.getenv("GROQ_API_KEY"):
-        print("❌ Bitte setzen Sie GROQ_API_KEY!")
-        print("   export GROQ_API_KEY='your-groq-api-key'")
-        return
-
     try:
-        # System initialisieren
+        # System initialisieren (API Key ist jetzt eingebaut)
         groq_rag = AdvancedGroqRAG()
 
         # Demo-Queries
@@ -447,9 +446,7 @@ def demo_advanced_groq():
             print(response)
             print("\n" + "=" * 50)
 
-        print(
-            "\n🎯 Demo abgeschlossen! Starten Sie interactive_search() für eigene Anfragen."
-        )
+        print("\n🎯 Demo abgeschlossen! Das System ist einsatzbereit.")
 
     except Exception as e:
         print(f"❌ Demo-Fehler: {e}")
