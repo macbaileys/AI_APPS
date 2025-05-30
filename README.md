@@ -8,7 +8,7 @@ Dieses Projekt hilft, personalisierte Wanderempfehlungen für die Region Appenze
 
 | Name | URL |
 |------|-----|
-| Streamlit Web-App | [Lokale Anwendung](http://localhost:8501) |
+| Streamlit Web-App | [Lokale Anwendung](https://macbaileys-ai-apps-streamlit-rag-app-8skdtr.streamlit.app/) |
 | GitHub Repository | [AI_APPS Projekt](https://github.com/macbaileys/AI_APPS) |
 | PDF Datenquelle | [Appenzell Wanderungen PDF](PDFs/Appenzell_Wanderungen.pdf) |
 

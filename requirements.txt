@@ -14,8 +14,8 @@ scikit-learn==1.3.0
 streamlit==1.29.0
 plotly==5.17.0
 
-# Optional: Enhanced LLM Response Generation
-groq>=0.4.0  # For natural language response generation
+# Advanced AI Integration
+groq>=0.4.0  # For intelligent LLM response generation
 
 # Utilities
 python-dotenv==1.0.0
