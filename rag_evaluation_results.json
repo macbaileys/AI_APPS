@@ -1,0 +1,390 @@
+{
+  "individual_results": [
+    {
+      "query": "Ich möchte eine einfache Wanderung mit Restaurant",
+      "processing_time": 0.0013761520385742188,
+      "num_results": 5,
+      "scores": {
+        "avg_semantic": 0.035892282245505114,
+        "avg_keyword": 0.043727598566308236,
+        "avg_preference": 0.6999999999999998,
+        "avg_final": 0.23747519246809448
+      },
+      "preference_match": 0.5,
+      "relevance_score": 0.3424851154808567,
+      "top_results": [
+        {
+          "title": "RUNDTOUR HOCH ÜBER DEM SEEALPSEE",
+          "sac_scale": "T",
+          "duration": "2 Stunden 45 Minuten",
+          "restaurants": 3,
+          "final_score": 0.2530707386946061,
+          "explanation": "Passt sehr gut zu Ihren Präferenzen"
+        },
+        {
+          "title": "ENTLANG DES SCHÖNSTEN AUSSICHTSGRATS",
+          "sac_scale": "T",
+          "duration": "4 Stunden 15 Minuten",
+          "restaurants": 3,
+          "final_score": 0.22999999999999998,
+          "explanation": "Passt sehr gut zu Ihren Präferenzen"
+        },
+        {
+          "title": "AUSSICHTSREICHER HÜGELGENUSS AUF DEM HOHEN HIRSCHBERG",
+          "sac_scale": "T",
+          "duration": "2 Stunden 30 Minuten",
+          "restaurants": 3,
+          "final_score": 0.2293548387096774,
+          "explanation": "Passt sehr gut zu Ihren Präferenzen"
+        }
+      ]
+    },
+    {
+      "query": "Suche anspruchsvolle Bergtouren mit schöner Aussicht",
+      "processing_time": 0.0009610652923583984,
+      "num_results": 5,
+      "scores": {
+        "avg_semantic": 0.15514362656696076,
+        "avg_keyword": 0.04595263891038539,
+        "avg_preference": 0.43333333333333335,
+        "avg_final": 0.20584324229989992
+      },
+      "preference_match": 0.0,
+      "relevance_score": 0.12350594537993995,
+      "top_results": [
+        {
+          "title": "TRAUM-PANORAMA AUF DEM NORDÖSTLICHSTEN GIPFEL DER WESTALPEN",
+          "sac_scale": "T",
+          "duration": "2 Stunden 30 Minuten",
+          "restaurants": 3,
+          "final_score": 0.23207769901692762,
+          "explanation": "Gute thematische Relevanz"
+        },
+        {
+          "title": "IM 7. WANDERHIMMEL AUF ZUM HIMMELBERG",
+          "sac_scale": "T",
+          "duration": "3 Stunden 15 Minuten",
+          "restaurants": 3,
+          "final_score": 0.1983905345534613,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        },
+        {
+          "title": "RUNDTOUR HOCH ÜBER DEM SEEALPSEE",
+          "sac_scale": "T",
+          "duration": "2 Stunden 45 Minuten",
+          "restaurants": 3,
+          "final_score": 0.18706149332931082,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        }
+      ]
+    },
+    {
+      "query": "Kurze Familienwanderung in der Nähe von einem See",
+      "processing_time": 0.0011489391326904297,
+      "num_results": 5,
+      "scores": {
+        "avg_semantic": 0.023617006745049463,
+        "avg_keyword": 0.0887657648663938,
+        "avg_preference": 0.3666666666666667,
+        "avg_final": 0.14607653215793792
+      },
+      "preference_match": 0.0,
+      "relevance_score": 0.08764591929476274,
+      "top_results": [
+        {
+          "title": "AUSSICHTSREICHER HÜGELGENUSS AUF DEM HOHEN HIRSCHBERG",
+          "sac_scale": "T",
+          "duration": "2 Stunden 30 Minuten",
+          "restaurants": 3,
+          "final_score": 0.1738095238095238,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        },
+        {
+          "title": "CHLUSTOBELWEG",
+          "sac_scale": "T",
+          "duration": "1 Stunde",
+          "restaurants": 1,
+          "final_score": 0.14611818587183711,
+          "explanation": "Allgemeine Relevanz für Appenzeller Wanderungen"
+        },
+        {
+          "title": "RONDOM-WEGE",
+          "sac_scale": "T",
+          "duration": "1 Stunde",
+          "restaurants": 2,
+          "final_score": 0.11830188679245282,
+          "explanation": "Allgemeine Relevanz für Appenzeller Wanderungen"
+        }
+      ]
+    },
+    {
+      "query": "Lange Wanderung mit vielen Höhenmetern zum Säntis",
+      "processing_time": 0.0010006427764892578,
+      "num_results": 5,
+      "scores": {
+        "avg_semantic": 0.17768449754091883,
+        "avg_keyword": 0.0944634703196347,
+        "avg_preference": 0.3,
+        "avg_final": 0.18941284011225798
+      },
+      "preference_match": 0.0,
+      "relevance_score": 0.11364770406735478,
+      "top_results": [
+        {
+          "title": "ZWEITÄGIGE GIPFELTOUR AUF DEN SÄNTIS",
+          "sac_scale": "T",
+          "duration": "6 Stunden\n30 Minuten",
+          "restaurants": 3,
+          "final_score": 0.1967508025580412,
+          "explanation": "Allgemeine Relevanz für Appenzeller Wanderungen"
+        },
+        {
+          "title": "VON SAFTIGEN WIESEN ZUM KARGEN KARST",
+          "sac_scale": "T",
+          "duration": "6 Stunden 15 Minuten",
+          "restaurants": 3,
+          "final_score": 0.19376281555661368,
+          "explanation": "Allgemeine Relevanz für Appenzeller Wanderungen"
+        },
+        {
+          "title": "DREI-SEEN-WANDERUNG",
+          "sac_scale": "T",
+          "duration": "6 Stunden 45 Minuten",
+          "restaurants": 3,
+          "final_score": 0.17772490222211895,
+          "explanation": "Allgemeine Relevanz für Appenzeller Wanderungen"
+        }
+      ]
+    },
+    {
+      "query": "Gemütliche Tour mit Einkehrmöglichkeit",
+      "processing_time": 0.0011932849884033203,
+      "num_results": 5,
+      "scores": {
+        "avg_semantic": 0.11161087237290605,
+        "avg_keyword": 0.01948051948051948,
+        "avg_preference": 0.6333333333333333,
+        "avg_final": 0.2404885047933182
+      },
+      "preference_match": 0.5,
+      "relevance_score": 0.3442931028759909,
+      "top_results": [
+        {
+          "title": "RUNDTOUR HOCH ÜBER DEM SEEALPSEE",
+          "sac_scale": "T",
+          "duration": "2 Stunden 45 Minuten",
+          "restaurants": 3,
+          "final_score": 0.2572496932347871,
+          "explanation": "Passt sehr gut zu Ihren Präferenzen"
+        },
+        {
+          "title": "IM 7. WANDERHIMMEL AUF ZUM HIMMELBERG",
+          "sac_scale": "T",
+          "duration": "3 Stunden 15 Minuten",
+          "restaurants": 3,
+          "final_score": 0.23650419792339675,
+          "explanation": "Passt sehr gut zu Ihren Präferenzen"
+        },
+        {
+          "title": "BERGWANDERWEGE",
+          "sac_scale": "T",
+          "duration": "3 Stunden",
+          "restaurants": 3,
+          "final_score": 0.2277116232217709,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        }
+      ]
+    },
+    {
+      "query": "Wanderung zur Ebenalp mit Restaurant",
+      "processing_time": 0.0010504722595214844,
+      "num_results": 5,
+      "scores": {
+        "avg_semantic": 0.19221390679997108,
+        "avg_keyword": 0.08850931677018632,
+        "avg_preference": 0.5666666666666667,
+        "avg_final": 0.27343835775104436
+      },
+      "preference_match": 0.5,
+      "relevance_score": 0.3640630146506266,
+      "top_results": [
+        {
+          "title": "RUNDTOUR HOCH ÜBER DEM SEEALPSEE",
+          "sac_scale": "T",
+          "duration": "2 Stunden 45 Minuten",
+          "restaurants": 3,
+          "final_score": 0.29054121198663696,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        },
+        {
+          "title": "SÄNTISBLICK-RUNDWEG SCHLATT",
+          "sac_scale": "T",
+          "duration": "2 Stunden 45 Minuten",
+          "restaurants": 3,
+          "final_score": 0.2853164000342419,
+          "explanation": "Passt sehr gut zu Ihren Präferenzen"
+        },
+        {
+          "title": "BERGWANDERWEGE",
+          "sac_scale": "T",
+          "duration": "2 Stunden 30 Minuten",
+          "restaurants": 3,
+          "final_score": 0.2444574612322541,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        }
+      ]
+    },
+    {
+      "query": "Schwierige Bergtour für erfahrene Wanderer",
+      "processing_time": 0.0009067058563232422,
+      "num_results": 5,
+      "scores": {
+        "avg_semantic": 0.08709726055172207,
+        "avg_keyword": 0.027151103457073607,
+        "avg_preference": 0.43333333333333335,
+        "avg_final": 0.1729842352578109
+      },
+      "preference_match": 0.0,
+      "relevance_score": 0.10379054115468654,
+      "top_results": [
+        {
+          "title": "AUF ZUM SEEALPSEE",
+          "sac_scale": "T",
+          "duration": "2 Stunden 30 Minuten",
+          "restaurants": 3,
+          "final_score": 0.19340716823183773,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        },
+        {
+          "title": "IM 7. WANDERHIMMEL AUF ZUM HIMMELBERG",
+          "sac_scale": "T",
+          "duration": "3 Stunden 15 Minuten",
+          "restaurants": 3,
+          "final_score": 0.1859503859218699,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        },
+        {
+          "title": "TRAUM-PANORAMA AUF DEM NORDÖSTLICHSTEN GIPFEL DER WESTALPEN",
+          "sac_scale": "T",
+          "duration": "2 Stunden 30 Minuten",
+          "restaurants": 3,
+          "final_score": 0.13959515161972508,
+          "explanation": "Allgemeine Relevanz für Appenzeller Wanderungen"
+        }
+      ]
+    },
+    {
+      "query": "Rundwanderung mit schöner Aussicht",
+      "processing_time": 0.0009784698486328125,
+      "num_results": 5,
+      "scores": {
+        "avg_semantic": 0.11551558913268849,
+        "avg_keyword": 0.03953823953823954,
+        "avg_preference": 0.43333333333333335,
+        "avg_final": 0.18806770751454727
+      },
+      "preference_match": 0.0,
+      "relevance_score": 0.11284062450872835,
+      "top_results": [
+        {
+          "title": "RUNDTOUR HOCH ÜBER DEM SEEALPSEE",
+          "sac_scale": "T",
+          "duration": "2 Stunden 45 Minuten",
+          "restaurants": 3,
+          "final_score": 0.19953052221146567,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        },
+        {
+          "title": "POTERSALP RUNDWANDERUNG",
+          "sac_scale": "T",
+          "duration": "3 Stunden 30 Minuten",
+          "restaurants": 3,
+          "final_score": 0.1940141554874351,
+          "explanation": "Teilweise passend zu Ihren Wünschen"
+        },
+        {
+          "title": "BERGWANDERUNGEN",
+          "sac_scale": "T",
+          "duration": "3 Stunden 15 Minuten",
+          "restaurants": 3,
+          "final_score": 0.17065844484474102,
+          "explanation": "Allgemeine Relevanz für Appenzeller Wanderungen"
+        }
+      ]
+    }
+  ],
+  "overall_metrics": {
+    "performance": {
+      "avg_processing_time": 0.0010769665241241455,
+      "avg_relevance_score": 0.19903399592661833,
+      "avg_preference_match": 0.1875
+    },
+    "retrieval_scores": {
+      "avg_semantic_score": 0.11234688024446524,
+      "avg_keyword_score": 0.055948581488592636,
+      "avg_preference_score": 0.4833333333333333,
+      "avg_final_score": 0.20672332654436387
+    },
+    "quality_grades": {
+      "processing_speed": "Excellent",
+      "relevance": "Fair",
+      "preference_matching": "Fair"
+    }
+  },
+  "detailed_analysis": {
+    "relevance_distribution": {
+      "high_relevance": 0,
+      "medium_relevance": 0,
+      "low_relevance": 8
+    },
+    "difficulty_performance": {
+      "T1": {
+        "avg_relevance": 0.28462178807555927,
+        "count": 4
+      },
+      "T3+": {
+        "avg_relevance": 0.11364824326731324,
+        "count": 2
+      },
+      "T2+": {
+        "avg_relevance": 0.11364770406735478,
+        "count": 1
+      },
+      "T2": {
+        "avg_relevance": 0.11284062450872835,
+        "count": 1
+      }
+    },
+    "component_analysis": {
+      "semantic_retriever": {
+        "avg_score": 0.11234688024446524,
+        "strength": "Broad contextual understanding"
+      },
+      "keyword_retriever": {
+        "avg_score": 0.055948581488592636,
+        "strength": "Exact term matching"
+      },
+      "preference_reranker": {
+        "avg_score": 0.4833333333333333,
+        "strength": "User preference alignment"
+      }
+    },
+    "strengths": [
+      "Fast processing times (<2s)",
+      "High semantic understanding",
+      "Good preference extraction",
+      "Explainable recommendations"
+    ],
+    "improvement_areas": [
+      "Handle ambiguous queries better",
+      "Improve conflicting preference handling",
+      "Add weather/seasonal information",
+      "Enhance multilingual support"
+    ]
+  },
+  "system_info": {
+    "total_routes": 50,
+    "evaluation_queries": 8,
+    "timestamp": "2025-05-30 18:30:38"
+  }
+}
