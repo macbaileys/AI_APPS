@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
-"""
-Advanced Streamlit Web-App mit Groq Integration
-==============================================
 
-Erweiterte Web-Oberfläche für das Appenzeller Wanderungen RAG-System
-mit intelligenter Groq LLM Integration.
-"""
 
 import streamlit as st
 import os
