@@ -1,24 +1,24 @@
 # PDF Processing
-pdfplumber>=0.10.0,<0.12.0  # Updated for compatibility
+pdfplumber>=0.10.0,<0.12.0
 PyPDF2==3.0.1
 
 # Data Processing & Analytics
-pandas==2.1.4
-numpy==1.24.3
-scikit-learn==1.3.0
+numpy>=1.26.0,<1.27.0
+pandas>=2.1.4,<3.0.0
+scikit-learn>=1.3.0,<2.0.0
 
 # RAG System & NLP
-# Using lightweight TF-IDF implementation (no heavy transformers)
+# (Add TF-IDF or other NLP packages here if needed)
 
 # Web Interface
-streamlit==1.29.0
-plotly==5.17.0
+streamlit>=1.29.0,<2.0.0
+plotly>=5.17.0,<6.0.0
 
 # Advanced AI Integration
-groq>=0.4.0  # For intelligent LLM response generation
+groq>=0.4.0
 
 # Utilities
-python-dotenv==1.0.0
+python-dotenv>=1.0.0,<2.0.0
 
 # Optional: For enhanced visualization
-matplotlib>=3.7.0 
+matplotlib>=3.7.0,<4.0.0
